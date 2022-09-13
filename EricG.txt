@@ -1,1 +1,2 @@
 "Hello from Eric Guo" 
+goodbye from Eric 
